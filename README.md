@@ -2,7 +2,7 @@
 
 A high-performance sentiment analysis engine that decodes **market psychology** by analyzing news headlines in real-time. Built with a focus on institutional-grade metrics, multi-engine AI support, and visual data story-telling.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Dashboard+Preview+placeholder)
+![Dashboard Preview](<img width="1854" height="906" alt="1" src="https://github.com/user-attachments/assets/bd2a0444-ac24-46a3-9329-79a7c74e52c0" />)
 
 ## 🎯 Key Features
 
@@ -143,3 +143,4 @@ Contributions are what make the open-source community such an amazing place to l
 Developed by **Talay** - 2026
 
 *Disclaimer: This tool is for educational and informational purposes only. Trading financial assets involves significant risk. Always perform your own due diligence.*
+
